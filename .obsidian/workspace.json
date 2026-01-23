@@ -4,22 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "2c0d968b30530ed8",
+        "id": "e9acb9bbc015b1ca",
         "type": "tabs",
+        "dimension": 81.81818181818181,
         "children": [
           {
-            "id": "518d3ed61da3fefc",
+            "id": "cdcef2b9a44d189a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "admin/layout.md",
+                "file": "浏览器/媒体/摄像头.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "layout"
-            }
+              "title": "摄像头"
+            },
+            "group": "a281e17141a93b5d"
+          }
+        ]
+      },
+      {
+        "id": "2993201e17e1ff28",
+        "type": "tabs",
+        "dimension": 18.18181818181818,
+        "children": [
+          {
+            "id": "d65e55d58bc83706",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "浏览器/媒体/摄像头.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "摄像头 的大纲"
+            },
+            "group": "a281e17141a93b5d"
           }
         ]
       }
@@ -41,7 +66,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "byModifiedTime",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -78,7 +103,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 322.5
   },
   "right": {
     "id": "05d22a94beb9de49",
@@ -94,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "admin/layout.md",
+                "file": "随记.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +129,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "layout 的反向链接列表"
+              "title": "随记 的反向链接列表"
             }
           },
           {
@@ -113,12 +138,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "admin/layout.md",
+                "file": "随记.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "layout 的出链列表"
+              "title": "随记 的出链列表"
             }
           },
           {
@@ -156,13 +181,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "admin/layout.md",
+                "file": "随记.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "layout 的大纲"
+              "title": "随记 的大纲"
             }
           }
         ]
@@ -183,22 +208,46 @@
       "bases:新建数据库": false
     }
   },
-  "active": "518d3ed61da3fefc",
+  "active": "d2620d61b5f3d7cc",
   "lastOpenFiles": [
+    "浏览器/webRTC",
+    "前端工程/utils/dataProcesing.md",
+    "浏览器/媒体/摄像头.md",
+    "浏览器/协议",
+    "浏览器/渲染",
+    "浏览器/路由",
+    "浏览器/媒体",
+    "浏览器/媒体.md",
+    "浏览器",
+    "微前端/乾坤/页面跳转.md",
+    "微前端/乾坤/状态共享.md",
+    "微前端/乾坤/注意事项.md",
+    "微前端/乾坤/使用.md",
+    "微前端/乾坤/应用之间通讯.md",
+    "微前端/乾坤/接入子应用.md",
+    "微前端/乾坤/主应用配置.md",
+    "微前端/业务架构.md",
+    "微前端/乾坤",
+    "微前端/应用.md",
+    "nginx",
+    "随记.md",
     "readme.md",
+    "admin/layout/菜单栏.md",
     "admin/layout.md",
-    "新建 文本文档.txt",
-    "book",
-    "项目",
-    "electron",
+    "admin/layout/面包屑.md",
+    "admin/layout/左侧菜单.md",
+    "admin/layout/动态路由.md",
+    "admin/layout",
+    "assets/随记/file-20260114171748431.png",
+    "assets/随记",
+    "assets/随记斯蒂芬森",
+    "assets/随记/$tgeneratedAttachmentFileName}.md",
+    "assets/随记/file-20260114171434221.png",
+    "assets/随记/file-20260114171325578.png",
+    "assets/随记/file-20260114171409547.png",
+    "Pasted image 20260114170946.png",
     "前端工程/utils/websocet.md",
-    "前端工程/暗黑模式",
-    "前端工程/主题",
-    "微前端",
-    "前端架构/未命名",
-    "前端工程/sdk",
     "前端工程/utils/request.md",
-    "前端工程/utils",
     "测试/来看看.md",
     "欢迎.md",
     "未命名 1.canvas",

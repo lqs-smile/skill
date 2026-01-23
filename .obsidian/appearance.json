@@ -1,5 +1,9 @@
 {
-  "theme": "moonstone",
+  "theme": "obsidian",
   "interfaceFontFamily": "Cascadia Code PL",
-  "cssTheme": "Blue Topaz"
+  "cssTheme": "Royal Velvet",
+  "accentColor": "#e43b2f",
+  "baseFontSize": 16,
+  "monospaceFontFamily": "Cascadia Code PL",
+  "textFontFamily": "Cascadia Code PL"
 }
