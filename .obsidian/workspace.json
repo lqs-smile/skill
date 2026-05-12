@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c3c0a246405e6acd",
+        "id": "5c87dc39e40d3b2c",
         "type": "tabs",
         "children": [
           {
-            "id": "54266e1ebff27cce",
+            "id": "230cc7067fc72bb3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "前端工程/性能/性能优化方向、策略、手段.md",
+                "file": "微前端/乾坤/qiankun 子应用离开后触发异常重定向 — 实验笔记.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "性能优化方向、策略、手段"
+              "title": "qiankun 子应用离开后触发异常重定向 — 实验笔记"
             }
           }
         ]
@@ -73,12 +73,23 @@
               "icon": "lucide-bookmark",
               "title": "书签"
             }
+          },
+          {
+            "id": "00aabcd08519cc1e",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Navigator"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 334.5
+    "width": 372.5
   },
   "right": {
     "id": "05d22a94beb9de49",
@@ -183,53 +194,54 @@
       "bases:新建数据库": false
     }
   },
-  "active": "54266e1ebff27cce",
+  "active": "230cc7067fc72bb3",
   "lastOpenFiles": [
-    "前端工程/性能/影响性能的因素.md",
-    "前端工程/性能/性能优化方向、策略、手段.md",
-    "前端工程/性能/浏览器性能检测.md",
-    "AI/vibecoding/业务开发.md",
-    "前端工程/性能",
-    "AI/vibecoding/AI工程架构设计.md",
-    "AI/vibecoding/开发步骤.md",
-    "AI/vibecoding/AI编辑器.md",
-    "前端工程/项目优化策略.md",
-    "前端工程/从能用到好用.md",
-    "前端工程/前端监控",
-    "前端工程/sdk/百度地图.md",
-    "前端工程/sdk/echart.md",
-    "前端工程/sdk/直播.md",
-    "前端工程/sdk/视频聊天.md",
-    "AI/介绍.md",
-    "前端工程/异常.md",
-    "前端工程/联调.md",
-    "前端工程/前后端约定.md",
-    "前端工程/优化.md",
-    "前端工程/assets/联调",
-    "前端工程/assets/联调/file-20260313103655252.png",
-    "前端工程/assets/交互",
-    "前端工程/assets",
-    "前端工程/项目配置/vite配置.md",
-    "前端工程/Git/回滚.md",
-    "前端工程/Git/注意.md",
-    "前端工程/项目配置/基础配置.md",
-    "javascript/垃圾回收.md",
-    "react/性能-优化/拖拽.md",
-    "react/会导致系统异常.md",
-    "react/性能-优化",
-    "react/JXS语法/未命名.md",
-    "react/JXS语法",
-    "react/组件",
-    "AI/agent开发",
-    "AI/vibecoding",
+    "微前端/乾坤/.md",
+    "前端工程/前端工程.md",
+    "微前端/乾坤/qiankun 子应用离开后触发异常重定向 — 实验笔记.md",
+    "微前端/乾坤/注意事项.md",
+    "微前端/乾坤/接入子应用.md",
+    "微前端/乾坤/应用之间通讯.md",
+    "微前端/业务架构.md",
+    "微前端.md",
+    "nodojs/express/跨域/CORS三种请求交互.md",
+    "nodojs/express/跨域/assets/CORS三种请求交互/file-20260506162544530.png",
+    "nodojs/express/跨域/assets/CORS三种请求交互",
+    "nodojs/express/跨域/assets",
+    "nodojs/express/跨域/CORS.md",
+    "nodojs/express/跨域/跨域.md",
+    "nodojs/express/## 动态路由.md",
+    "nodojs/express/场景/场景.md",
+    "nodojs/express/express生成器.md",
+    "nodojs/express/express.md",
+    "nodojs/服务器的三层架构.md",
+    "nodojs/express/跨域/JSONP.md",
+    "nodojs/express/跨域/客户端正向代理.md",
+    "nodojs/express/跨域/服务器方向代理.md",
+    "nodojs/express/跨域.md",
+    "nodojs/express/跨域",
+    "nodojs/express/登录与认证.md",
+    "nodojs/express/session.md",
+    "nodojs/express/cookie.md",
+    "nodojs/express/路由.md",
+    "nodojs/express/断点调试.md",
+    "nodojs/express/中间件开发.md",
+    "nodojs/express/assets/jwt/file-20260506102852658.png",
+    "nodojs/express/assets/jwt/file-20260506101826378.png",
+    "nodojs/express/assets/jwt",
+    "nodojs/express/assets",
+    "AI项目",
+    "前端工程/编码策略",
+    "nodojs/express/场景",
+    "前端工程/过渡动画",
     "小程序/assets/企业微信/file-20260204104618142.png",
+    "Tags",
+    "react/性能-优化/assets/卡顿/file-20260410152313405.png",
+    "前端工程/系统架构/assets/版本更新提醒/file-20260407213849509.png",
+    "前端工程/assets/联调/file-20260313103655252.png",
     "前端工程/主题/assets/Tdesign配色参考/file-20260126171319964.png",
     "前端工程/主题/assets/主题架构/file-20260126163423921.png",
     "assets/随记/file-20260114171748431.png",
-    "assets/随记/file-20260114171434221.png",
-    "assets/随记/file-20260114171325578.png",
-    "assets/随记/file-20260114171409547.png",
-    "Pasted image 20260114170946.png",
     "未命名 1.canvas",
     "未命名.canvas"
   ]
